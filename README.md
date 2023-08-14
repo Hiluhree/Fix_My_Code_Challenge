@@ -10,4 +10,4 @@ contained follows:
 
 ## Author
 
-* __Hillary Cheserek__ <[Hiluhree](https://github.com/hiuhree)>
+* __Hillary Cheserek__ <[Hiluhree](https://github.com/Hiluhree)>
